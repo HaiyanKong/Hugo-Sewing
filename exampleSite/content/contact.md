@@ -22,3 +22,4 @@ Email: example@example.com
 
 </div>
 </div>
+<hr class="border-dark opacity-70"/>

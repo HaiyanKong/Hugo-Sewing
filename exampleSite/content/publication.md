@@ -31,7 +31,7 @@ layout: "single-simple"
 <a href="/publication/publication.pdf" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">PDF</a>
 </div>
 </div>
-<br> <This  is used to create a line break>
+<hr class="border-dark opacity-70"/>
 
 <!---------- 4.3 publication2 ---------->
 
@@ -51,7 +51,7 @@ Author, <u>Author</u>, Author\
 <a href="https://github.com" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">Data</a>
 </div>
 </div>
-<br> <This  is used to create a line break>
+<hr class="border-dark opacity-70"/>
 
 <!---------- 4.4 publication3 ---------->
 
@@ -70,7 +70,7 @@ Author, <u>Author</u>, Author\
 <a href="/publication/publication.pdf" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">PDF</a>
 </div>
 </div>
-<br> <This  is used to create a line break>
+<hr class="border-dark opacity-70"/>
 
 <!---------- 4.5 publication4 ---------->
 
@@ -90,7 +90,7 @@ Author, <u>Author</u>, Author\
 <a href="https://github.com" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">Data</a>
 </div>
 </div>
-<br> <This  is used to create a line break>
+<hr class="border-dark opacity-70"/>
 
 <!---------- 4.4 end ---------->
 </div>

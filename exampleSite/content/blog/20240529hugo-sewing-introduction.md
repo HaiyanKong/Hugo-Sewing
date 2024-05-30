@@ -8,11 +8,15 @@ categories:
   - Hugo-Sewing
 ---
 
-Hugo-Sewing is a simple, clean and flexible Hugo theme for both personal blog, group website, and academic website. 
+<div align="center">
 
 ![Static Badge](https://img.shields.io/badge/license-MIT-blue.svg)
 
 [Demo site](https://haiyankong.github.io/hugo-sewing-demo/)
+
+</div>
+
+Hugo-Sewing is a simple, clean and flexible Hugo theme for both personal blog, group website, and academic website. 
 
 ## Background
 
@@ -26,9 +30,11 @@ Hugo-Sewing is heavily based on [Hugo-Xmin](https://github.com/yihui/hugo-xmin),
 
 - Markdown style based on [Hugo-HT](https://github.com/hongtaoh/hugo-ht) theme by [Hongtao Hao](https://hongtaoh.com/).
 
-- Shortcode ported from: [tutorial](https://www.sleepymoon.cyou/2023/hugo-shortcodes/) by [眠于水月间](https://www.sleepymoon.cyou/) and [tutorial](https://fourxiajiao.github.io/2022/hugo-blog/) by [一笼虾饺有四个](https://fourxiajiao.github.io/).
+- Shortcode ported from: [tutorial](https://www.sleepymoon.cyou/2023/hugo-shortcodes/) by [https://www.sleepymoon.cyou/](https://www.sleepymoon.cyou/) and [tutorial](https://fourxiajiao.github.io/2022/hugo-blog/) by [https://fourxiajiao.github.io/](https://fourxiajiao.github.io/).
 
 - Toc style ported from: [tutorial](https://www.sulvblog.cn/posts/blog/hugo_toc_side/) by [Kevin Xu](https://www.sulvblog.cn/).
+
+- Memos page ported from [memos.top](https://github.com/eallion/memos.top) by [eallion](https://www.eallion.com/)
 
 - ......
 
@@ -56,12 +62,10 @@ This amalgamation of influences led to the name "Hugo-Sewing," symbolizing the p
 ```
 hugo new site demosite
 cd demosite/themes
-git clone https://github.com/user/hugo-sewing
+git clone https://github.com/HaiyanKong/hugo-sewing
 cd ..
 cp -r themes/hugo-sewing/exampleSite/* .
 ```
-
-#### Deploy
 
 ```
 hugo server -D
@@ -76,16 +80,25 @@ You can also add hugo-sewing as a submodule:
 hugo new site demosite
 cd demosite
 git init
-git submodule add https://github.com/user/hugo-sewing themes/hugo-sewing
+git submodule add https://github.com/HaiyanKong/hugo-sewing.git themes/hugo-sewing
 cp -r themes/hugo-sewing/exampleSite/* .
 ```
-
-#### Deploy
 
 ```
 hugo server -D
 ```
 Then, open `http://localhost:1313/`, then you will see the website like the [demo site](https://haiyankong.github.io/hugo-sewing-demo/).
+
+#### Update with submodule
+
+```
+cd themes/hugo-sewing
+git checkout main && git pull
+cd ..
+git add hugo-sewing
+git commit -m "updating submodule to latest"
+cd ..
+```
 
 > The difference between two methods (Copied from [hongtaoh](https://github.com/hongtaoh)/[hugo-ht](https://github.com/hongtaoh/hugo-ht)):
 >

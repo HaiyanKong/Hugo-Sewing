@@ -1,6 +1,7 @@
 ---
 title: "Memos"
-layout: "memos"
+layout: "single-simple"
+memos: true
 ---
 {{< blockquote author="René Descartes fans" link="https://github.com/eallion/memos.top" title="" >}}
 

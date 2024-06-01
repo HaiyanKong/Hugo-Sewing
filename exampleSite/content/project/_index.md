@@ -1,5 +1,6 @@
 ---
 title: "Project"
-layout: "item-list"
+layout: "block-list"
+project: true
 ---
 

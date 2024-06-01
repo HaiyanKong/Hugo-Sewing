@@ -12,36 +12,15 @@ Hugo-Sewing is a simple, clean and flexible Hugo theme for both personal blog, g
 
 ## Screenshots
 
-![homeScreenshot](./static/readme/homeScreenshot.png)
-
-<details>
-<summary> Screenshots of other pages </summary>
-
-![cvScreenshot](./static/readme/cvScreenshot.png)
-
-![projectScreenshot](./static/readme/projectScreenshot.png)
-
-![publicationScreenshot](./static/readme/publicationScreenshot.png)
-
-![peopleScreenshot](./static/readme/peopleScreenshot.png)
-
-![memosScreenshot](./static/readme/memosScreenshot.png)
-
-![blogScreenshot](./static/readme/blogScreenshot.png)
-
-![postScreenshot](./static/readme/postScreenshot.png)
-
-![contactScreenshot](./static/readme/contactScreenshot.png)
-
-</details>
+![homeScreenshot](./static/readme/screenshot.png)
 
 ## Background
 
-Hugo-Sewing is heavily based on [Hugo-Xmin](https://github.com/yihui/hugo-xmin), with modifications mainly inspired by [Shayan Hosseini's website](https://github.com/shayanh) and [Hugo-Holy](https://github.com/serkodev/holy):
+Hugo-Sewing is heavily based on [Hugo-Xmin](https://github.com/yihui/hugo-xmin), with modifications mainly inspired by [Shayan Hosseini's website](https://github.com/shayanh), [Hugo-Astatine-Theme](https://github.com/hugcis/hugo-astatine-theme), and [Hugo-Holy](https://github.com/serkodev/holy):
 
 - The base of Hugo-ht is [Yihui Xie](https://github.com/yihui)'s [Hugo-Xmin](https://github.com/yihui/hugo-xmin).
 
-- The academic layout ("Home", "Project", "Publication", and "People") is modified the code from [Shayan Hosseini's website](https://github.com/shayanh).
+- The academic layout ("Home", "Project", "Publication", and "People") is modified the code from [Shayan Hosseini's website](https://github.com/shayanh) by [Shayan Hosseini](http://shayanh.com/) and [Hugo-Astatine-Theme](https://github.com/hugcis/hugo-astatine-theme) by [Hugo Cisneros](https://hugocisneros.com/)
 
 - The visual styles (navigation, index list, and footer) based on the [Hugo-Holy](https://github.com/serkodev/holy) theme by [SerKo](https://serko.dev/).
 
@@ -51,7 +30,7 @@ Hugo-Sewing is heavily based on [Hugo-Xmin](https://github.com/yihui/hugo-xmin),
 
 - Toc style ported from: [tutorial](https://www.sulvblog.cn/posts/blog/hugo_toc_side/) by [Kevin Xu](https://www.sulvblog.cn/).
 
-- Memos page ported from [memos.top](https://github.com/eallion/memos.top) by [eallion](https://www.eallion.com/)
+- Memos page ported from [memos.top](https://github.com/eallion/memos.top) by [eallion](https://www.eallion.com/).
 
 - ......
 

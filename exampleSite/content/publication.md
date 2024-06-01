@@ -1,97 +1,72 @@
 ---
 title: "Publication"
-layout: "single-simple"
+layout: "block-list"
+publication:
+  - 
+    image: /publication/publication.png
+    title: "Title title title title title title title title title title title title title title title title title"
+    authors:
+        - name: Author
+          me: true
+        - name: Author
+        - name: Author
+        - name: Author
+    journal: journal
+    date: year
+    description: "Summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementum Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementum."
+    links:
+      -
+        name: DOI
+        url: "https://github.com"
+      -
+        name: PDF
+        url: "/publication/publication.pdf"
+      -
+        name: Data
+        url: "https://github.com"
+  - 
+    image: /publication/publication.png
+    title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementum"
+    authors:
+        - name: Author
+        - name: Author
+        - name: Author
+          me: true
+        - name: Author
+    journal: journal
+    date: 2023
+    description: "Summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementum."
+    links:
+      -
+        name: DOI
+        url: "https://github.com"
+      -
+        name: PDF
+        url: "/publication/publication.pdf"
+      -
+        name: Data
+        url: "https://github.com"
+  - 
+    image: /publication/publication.png
+    title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementum."
+    authors:
+        - name: Author
+        - name: Author
+        - name: Author
+          me: true
+        - name: Author
+    journal: journal
+    date: 2023
+    description: 
+    links:
+      -
+        name: DOI
+        url: "https://github.com"
+      -
+        name: PDF
+        url: "/publication/publication.pdf"
+      -
+        name: Data
+        url: "https://github.com"
 ---
 
-<!------------------------- 4 Publication -------------------------> <you can change these as your preference>
-
-<!---------- 4.1 start ----------> <The part no need for modification>
-
-<div class="row">
-<div class="col">
-<br> <This  is used to create a line break>
-
-<!---------- 4.2 Selected Publications ---------->
-
-
-<!---------- 4.2 publication1 ---------->
-
-<div class="row">
-
-<div class="col-sm-3 mb-2">
-    <img src="/publication/publication.png">
-</div>
-
-<div class="col-sm-9 mb-2 align-self-end">
-
-**Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementum**\
-<u>Author</u>, Author, Author, Author, Author\
-*Journal*, year\
-<a href="https://github.com" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">DOI</a>
-<a href="/publication/publication.pdf" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">PDF</a>
-</div>
-</div>
-<hr class="border-dark opacity-70"/>
-
-<!---------- 4.3 publication2 ---------->
-
-<div class="row">
-
-<div class="col-sm-3 mb-2">
-    <img src="/publication/publication.png">
-</div>
-
-<div class="col-sm-9 mb-2 align-self-end">
-
-**Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementum**\
-Author, <u>Author</u>, Author\
-*Journal*, year\
-<a href="https://github.com" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">DOI</a>
-<a href="/publication/publication.pdf" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">PDF</a>
-<a href="https://github.com" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">Data</a>
-</div>
-</div>
-<hr class="border-dark opacity-70"/>
-
-<!---------- 4.4 publication3 ---------->
-
-<div class="row">
-
-<div class="col-sm-3 mb-2">
-    <img src="/publication/publication.png">
-</div>
-
-<div class="col-sm-9 mb-2 align-self-end">
-
-**Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementum**\
-<u>Author</u>, Author, Author, Author, Author\
-*Journal*, year\
-<a href="https://github.com" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">DOI</a>
-<a href="/publication/publication.pdf" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">PDF</a>
-</div>
-</div>
-<hr class="border-dark opacity-70"/>
-
-<!---------- 4.5 publication4 ---------->
-
-<div class="row">
-
-<div class="col-sm-3 mb-2">
-    <img src="/publication/publication.png">
-</div>
-
-<div class="col-sm-9 mb-2 align-self-end">
-
-**Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementum**\
-Author, <u>Author</u>, Author\
-*Journal*, year\
-<a href="https://github.com" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">DOI</a>
-<a href="/publication/publication.pdf" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">PDF</a>
-<a href="https://github.com" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">Data</a>
-</div>
-</div>
-<hr class="border-dark opacity-70"/>
-
-<!---------- 4.4 end ---------->
-</div>
-</div>

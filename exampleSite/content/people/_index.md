@@ -1,5 +1,10 @@
 ---
 title: "People"
-layout: "item-list"
+layout: "block-list"
+people: true
 ---
+
+
+
+
 

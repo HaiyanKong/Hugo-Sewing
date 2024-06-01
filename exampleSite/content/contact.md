@@ -1,6 +1,7 @@
 ---
 title: "Contact"
-layout: "contact"
+layout: "single-simple"
+comment: true
 ---
 
 <div class="row">

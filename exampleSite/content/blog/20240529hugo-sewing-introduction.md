@@ -57,6 +57,8 @@ This amalgamation of influences led to the name "Hugo-Sewing," symbolizing the p
 
 ## Installation
 
+This theme requires Hugo Extended >= 0.111.3.
+
 > Note: If you encounter a "443: Timed out" error when using either method, it's likely due to internet connectivity issues. In that case, you can download the repository and place the `hugo-sewing` folder inside the `themes` directory. Then, simply copy the files from `hugo-sewing/exampleSite` to the root folder and run `hugo server -D`.
 
 ### Direct Clone

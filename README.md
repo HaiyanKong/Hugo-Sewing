@@ -150,50 +150,25 @@ cd ..
 │  │  │  _index.md
 │  │  │  
 │  │  ├─archive
-│  │  │      people.md
-│  │  │      project.md
 │  │  │      
 │  │  ├─blog
-│  │  │      20240528hugo-sewing-markdown-style.md
-│  │  │      20240528hugo-sewing-shortcodes.md
-│  │  │      _index.md
 │  │  │      
 │  │  ├─people
-│  │  │      people1.md
-│  │  │      people2.md
-│  │  │      people3.md
-│  │  │      _index.md
 │  │  │      
 │  │  └─project
-│  │          project1.md
-│  │          project2.md
-│  │          project3.md
-│  │          _index.md
 │  │          
 │  └─static
 │      ├─blog
-│      │      hugo-sewing.pdf
-│      │      hugo-sewing1.jpg
-│      │      hugo-sewing2.jpg
-│      │      hugo-sewing3.jpg
 │      │      
 │      ├─contact
-│      │      findme.png
 │      │      
 │      ├─info
-│      │      cv.pdf
-│      │      profile.png
 │      │      
 │      ├─people
-│      │      people.png
 │      │      
 │      ├─project
-│      │      project.pdf
-│      │      project.png
 │      │      
 │      └─publication
-│              publication.pdf
-│              publication.png
 │              
 ├─i18n
 │      en.yaml
@@ -204,36 +179,10 @@ cd ..
 │  │  index.html
 │  │  
 │  ├─partials
-│  │      comment.html
-│  │      footer.html
-│  │      foot_custom.html
-│  │      header.html
-│  │      head_custom.html
-│  │      memo.html
-│  │      toc.html
 │  │      
 │  ├─shortcodes
-│  │      abbr.html
-│  │      align.html
-│  │      blockquote.html
-│  │      gallery.html
-│  │      imgloop.html
-│  │      mark.html
-│  │      netease.html
-│  │      pdf.html
-│  │      spotify.html
-│  │      timeline.html
-│  │      toggle.html
 │  │      
 │  └─_default
-│          contact.html
-│          item-list.html
-│          item.html
-│          list.html
-│          memos.html
-│          single-simple.html
-│          single.html
-│          terms.html
 │          
 └─static
     ├─css
@@ -241,13 +190,4 @@ cd ..
     │      style.css
     │      
     └─readme
-            blogScreenshot.png
-            contactScreenshot.png
-            cvScreenshot.png
-            homeScreenshot.png
-            memosScreenshot.png
-            peopleScreenshot.png
-            postScreenshot.png
-            projectScreenshot.png
-            publicationScreenshot.png
 ```

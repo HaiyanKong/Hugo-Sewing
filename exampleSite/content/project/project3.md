@@ -9,7 +9,8 @@ project:
     image: /project/project.png
     bigtitle:
     title: "Project simple introduction"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementum Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementum."
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed. 
     links:
       -
         name: Website

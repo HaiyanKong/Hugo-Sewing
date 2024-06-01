@@ -13,7 +13,8 @@ publication:
         - name: Author
     journal: journal
     date: year
-    description: "Summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementum Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementum."
+    description: |
+      Summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed.
     links:
       -
         name: DOI
@@ -35,7 +36,8 @@ publication:
         - name: Author
     journal: journal
     date: 2023
-    description: "Summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementum."
+    description: |
+      Summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed.
     links:
       -
         name: DOI
@@ -57,7 +59,8 @@ publication:
         - name: Author
     journal: journal
     date: 2023
-    description: 
+    description: |
+      Summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed.
     links:
       -
         name: DOI

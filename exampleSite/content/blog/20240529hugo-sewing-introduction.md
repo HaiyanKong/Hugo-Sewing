@@ -18,13 +18,19 @@ categories:
 
 Hugo-Sewing is a simple, clean and flexible Hugo theme for both personal blog, group website, and academic website. 
 
+## Screenshots
+
+>  Made by [everysize](https://everysize.kibalabs.com/)
+
+![homeScreenshot](/blog/screenshot.png)
+
 ## Background
 
-Hugo-Sewing is heavily based on [Hugo-Xmin](https://github.com/yihui/hugo-xmin), with modifications mainly inspired by [Shayan Hosseini's website](https://github.com/shayanh) and [Hugo-Holy](https://github.com/serkodev/holy):
+Hugo-Sewing is heavily based on [Hugo-Xmin](https://github.com/yihui/hugo-xmin), with modifications mainly inspired by [Shayan Hosseini's website](https://github.com/shayanh), [Hugo-Astatine-Theme](https://github.com/hugcis/hugo-astatine-theme), and [Hugo-Holy](https://github.com/serkodev/holy):
 
 - The base of Hugo-ht is [Yihui Xie](https://github.com/yihui)'s [Hugo-Xmin](https://github.com/yihui/hugo-xmin).
 
-- The academic layout ("Home", "Project", "Publication", and "People") is modified the code from [Shayan Hosseini's website](https://github.com/shayanh).
+- The academic layout ("Home", "Project", "Publication", and "People") is modified the code from [Shayan Hosseini's website](http://shayanh.com/) by [Shayan Hosseini](https://github.com/shayanh) and [Hugo-Astatine-Theme](https://github.com/hugcis/hugo-astatine-theme) by [Hugo Cisneros](https://hugocisneros.com/)
 
 - The visual styles (navigation, index list, and footer) based on the [Hugo-Holy](https://github.com/serkodev/holy) theme by [SerKo](https://serko.dev/).
 
@@ -34,7 +40,7 @@ Hugo-Sewing is heavily based on [Hugo-Xmin](https://github.com/yihui/hugo-xmin),
 
 - Toc style ported from: [tutorial](https://www.sulvblog.cn/posts/blog/hugo_toc_side/) by [Kevin Xu](https://www.sulvblog.cn/).
 
-- Memos page ported from [memos.top](https://github.com/eallion/memos.top) by [eallion](https://www.eallion.com/)
+- Memos page ported from [memos.top](https://github.com/eallion/memos.top) by [eallion](https://www.eallion.com/).
 
 - ......
 
@@ -42,16 +48,12 @@ This amalgamation of influences led to the name "Hugo-Sewing," symbolizing the p
 
 ## Features
 
-- Includes various shortcodes to meet diverse needs, more detais can see the [demo site](https://haiyankong.github.io/hugo-sewing-demo/).
+- Includes various shortcodes to meet diverse needs, more detais can see this [Blog](https://haiyankong.github.io/hugo-sewing-demo/blog/2024/05/hugo-sewing-shortcodes/).
 - Mobile-friendly and widescreen-friendly designs.
 - Supports the integration of the [Giscus](https://giscus.app/) comment system, powered by [GitHub Discussions](https://docs.github.com/en/discussions).
-- The "Home" page boasts a customizable academic style, making customization.
-- The "CV" page displays your resume or Curriculum Vitae directly and is downloadable.
-- On the "Projects" page, your projects are showcased directly, with detailed information available upon clicking.
-- The "Publications" page lists your publications and allows for easy addition of button links.
-- The "People" page conveniently displays your group members and provides additional details upon clicking.
-- Utilizes the [Memos](https://github.com/usememos/memos) system for the "Memos" page, allowing you to post personal moments, group galleries, or news.
-- The "Contact" page features a comment system and enables easy addition of map images.
+- Academic style: with publication, project, and people Page.
+- Utilizes the [Memos](https://github.com/usememos/memos) system for the "Memos" page, allowing to post personal moments, group galleries, and news.
+- "Contact" page features the comment system and enables easy addition of map images.
 
 ## Installation
 
@@ -99,8 +101,8 @@ git add hugo-sewing
 git commit -m "updating submodule to latest"
 cd ..
 ```
-
-> The difference between two methods (Copied from [hongtaoh](https://github.com/hongtaoh)/[hugo-ht](https://github.com/hongtaoh/hugo-ht)):
+> The above code copied from [hongtaoh](https://github.com/hongtaoh)/[hugo-ht](https://github.com/hongtaoh/hugo-ht)
+> The difference between two methods:
 >
 > If you add it as a submodule, the `hugo-sewing` theme you use is connected to this repository. The benefit is that you can keep it updated, but there is a caveat: if you make lots of changes to the styles based on your personal preferences, these changes might be lost.
 >
@@ -126,6 +128,7 @@ cd ..
 ## Excellent Hugo website building tutorials
 
 - [How to Deploy A Hugo Website Using GitHub Pages Action](https://hongtaoh.com/en/2021/04/05/hugo-deploy-github-actions/)
+- [How to Build a Website Using Hugo without Programming Skills](https://hongtaoh.com/en/2020/06/05/get-started-with-hugo/)
 - [Create and host a blog with Hugo and GitHub Pages in less than 30 minutes](https://www.mytechramblings.com/posts/create-a-website-with-hugo-and-gh/)
 - [Blogging With Hugo](https://digitaldrummerj.me/series/blogging-with-hugo/)
 

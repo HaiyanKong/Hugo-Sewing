@@ -1,10 +1,13 @@
 {{ partial "header.html" . }}
-<!-- People information -->
+    {{ if .Params.presenttitle }}
+        <div class="title">{{ .Title }}</div>
+    {{ end }}
+    <!-- People information -->
     {{ range .Params.people }}
         {{ partial "people.html" . }}
     {{ end }}
     <br>
-<!-- Publication -->
+    <!-- Publication -->
     <div class="row">
         <div class="col">
             {{ .Content }}
@@ -15,8 +18,8 @@
         {{ partial "item.html" . }}
     {{ end }}
     <br>
-<!-- Project -->
-<h3>{{ .Params.projecttitle}}</h3>
+    <!-- Project -->
+    <h3>{{ .Params.projecttitle}}</h3>
     {{ range .Params.project}}
         {{ partial "item.html" . }}
     {{ end }}

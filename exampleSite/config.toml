@@ -38,12 +38,12 @@ disableKinds = ["GitInfo"]
     url = "/blog/"
     weight = 7
 [[menu.main]]
-    name = "Contact"
-    url = "/Contact/"
+    name = "Gallery"
+    url = "/gallery/"
     weight = 8
 [[menu.main]]
-    name = "Code"
-    url = "https://github.com/HaiyanKong/hugo-sewing/"
+    name = "Contact"
+    url = "/contact/"
     weight = 9
 
 [markup.goldmark.renderer]

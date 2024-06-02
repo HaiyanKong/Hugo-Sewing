@@ -16,7 +16,7 @@ categories:
 
 </div>
 
-Hugo-Sewing is a simple, clean and flexible Hugo theme for both personal blog, group website, and academic website. 
+Hugo-Sewing is a simple, clean, and flexible Hugo theme suitable for personal blogs, academic websites, and group websites.
 
 ## Screenshots
 

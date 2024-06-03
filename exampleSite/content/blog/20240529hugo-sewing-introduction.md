@@ -18,12 +18,6 @@ categories:
 
 Hugo-Sewing is a simple, clean, and flexible Hugo theme suitable for personal blogs, academic websites, and group websites.
 
-## Screenshots
-
->  Made by [everysize](https://everysize.kibalabs.com/)
-
-![homeScreenshot](/blog/screenshot.png)
-
 ## Background
 
 Hugo-Sewing is heavily based on [Hugo-Xmin](https://github.com/yihui/hugo-xmin), with modifications mainly inspired by [Shayan Hosseini's website](https://github.com/shayanh), [Hugo-Astatine-Theme](https://github.com/hugcis/hugo-astatine-theme), and [Hugo-Holy](https://github.com/serkodev/holy):

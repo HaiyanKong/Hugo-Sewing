@@ -12,9 +12,11 @@ Hugo-Sewing is a simple, clean, and flexible Hugo theme suitable for personal bl
 
 ## Screenshots
 
->  Made by [everysize](https://everysize.kibalabs.com/)
+> Made by [Am I Responsive?](https://tools.wpdew.com/responsivedesign/index.html)
 
-![homeScreenshot](./static/readme/screenshot.png)
+![homeScreenshot](./static/readme/hugo-sewing-screen.png)
+
+Other tools: [everysize](https://everysize.kibalabs.com/)
 
 ## Background
 
